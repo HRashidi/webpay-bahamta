@@ -57,7 +57,7 @@ payment_url will be like:
 https://webpay.bahamta.com/api/…
 ```
 
-payment_data will be like:
+payment_info will be like:
 ```json
 {
     "state": "paid",
