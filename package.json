@@ -1,0 +1,26 @@
+{
+	"name": "webpay-bahamta",
+	"version": "1.0.0",
+	"description": "This a lib to handle payment from bahamta",
+	"author": "Hossein Rashidi",
+	"license": "MIT",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HRashidi/webpay-bahamta.git"
+	},
+	"keywords": [
+		"npm",
+		"payment",
+		"bahamta",
+		"nodejs"
+	],
+	
+	"bugs": {
+		"url": "https://github.com/HRashidi/webpay-bahamta/issues"
+	},
+	"homepage": "https://github.com/HRashidi/webpay-bahamta#readme",
+	"dependencies": {
+		"axios": "^0.21.1"
+	}
+}

@@ -1,0 +1,22 @@
+# npm & yarn
+node_modules
+package-lock.json
+yarn.lock
+
+public
+upload
+
+lib-cov
+*.seed
+*.env
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
