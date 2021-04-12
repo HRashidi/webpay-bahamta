@@ -95,21 +95,3 @@ module.exports = {
     payment : payment,
 	verify : verify
 };
-
-
-// Test
-let api_key = 'webpay:f8bdfa41-f2e3-4899-a6c5-ef8de7ef0a01:ee46fc5e-05cb-4986-aa35-4b6580be289b';
-let reference = '35300510481';
-let amount_irr = 100000 * 10;
-let callback_url = 'https://xlord.net/chechout/success';
-let payer_mobile = '09171793871';
-
-let paymentTest = async () => {
-	let res = await payment(api_key, reference, amount_irr, callback_url, payer_mobile);
-	console.log(res);
-
-	res = await verify(api_key, reference, amount_irr);
-	console.log(res);
-}
-
-paymentTest()
