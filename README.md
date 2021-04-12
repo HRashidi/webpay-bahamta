@@ -1,32 +1,16 @@
 === endpay ===
-Contributors: siturra
-Donate link: https://endpay.cl
-Tags: endpay, axios, webpay, nodejs
-Requires at least: 5.1
-Tested up to: 5.6.2
-Requires PHP: 7.2
+Contributors: hrashidi
+Donate link: ~
+Tags: npm, payment, bahamta, nodejs
+
+Tested up to: 1.0.0
+Requires axios: 0.21.1
 Stable tag: 1.0.0
 License: MIT
 License URI: https://github.com/HRashidi/webpay-bahamta/blob/main/LICENSE
- 
-Recibe pagos en Chile mediante endpay
 
 == Description ==
-Permite el uso de endpay en WooCommerce, endpay opera sobre transbank y permite recibir pagos mediante tarjetas de crédito & débito mediante webpay en Chile. 
+This a lib to handle payment from bahamta
 
 == Installation ==
-Para instalar este plugin de forma manual debes seguir los siguientes pasos:
-
-1. Descomprime el plugin a la carpeta `/wp-content/plugins/`
-2. Activa el plugin en el menú 'Plugins' en Wordpress
-3. Configura el nuevo medio de pago en  WooCommerce -> Settings -> Payment Gateways
-
-== Changelog == 
-= 1.0.2 = 
-* se agrega modo producción.
-
-= 1.0.1 = 
-* Se implementa webhook para actualizar ordenes internas de woocommerce.
-
-= 1.0.0 = 
-* Versión inicial estable.
+For installation exec "npm rinstall --save webpay-bahamta
