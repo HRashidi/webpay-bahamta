@@ -15,6 +15,12 @@ Using npm:
 $ npm install webpay-bahamta
 ```
 
+Using yarn:
+
+```bash
+$ yarn add axios
+```
+
 ## Example
 ```js
 const axios = require('webpay-bahamta');
