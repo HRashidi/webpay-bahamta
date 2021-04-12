@@ -92,6 +92,6 @@ const verify = async (
 }
 
 module.exports = {
-    payment : payment,
+	payment : payment,
 	verify : verify
 };
