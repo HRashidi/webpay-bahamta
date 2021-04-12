@@ -1,4 +1,4 @@
-=== endpay ===
+=== webpay-bahamta ===
 Contributors: hrashidi
 Donate link: ~
 Tags: npm, payment, bahamta, nodejs
