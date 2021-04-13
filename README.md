@@ -48,7 +48,7 @@ let verify_response = await webpay.verify(api_key, reference, amount_irr);
 if(! verify_response.ok) {
 	throw new Error(verify_response.error);
 }
-let payment_info = verify_response.result
+let payment_info = verify_response.result;
 console.log(payment_info);
 ```
 
