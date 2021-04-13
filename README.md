@@ -18,7 +18,7 @@ $ npm install webpay-bahamta
 Using yarn:
 
 ```bash
-$ yarn add axios
+$ yarn add webpay-bahamta
 ```
 
 ## Example
@@ -72,3 +72,6 @@ payment_info will be like:
     "pay_time": "2019-11-12T16:39:57.686436+03:30"
 }
 ```
+
+## API Documentation
+https://webpay.bahamta.com/doc/api
