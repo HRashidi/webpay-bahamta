@@ -60,16 +60,16 @@ https://webpay.bahamta.com/api/…
 payment_info will be like:
 ```json
 {
-    "state": "paid",
-    "total": 1000000,
-    "wage": 5000,
-    "gateway": "sep",
-    "terminal": "11223344",
-    "pay_ref": "GmshtyjwKSu5lKOLquYrzO9BqjUMb/TPUK0qak/iVs",
-    "pay_trace": "935041",
-    "pay_pan": "123456******1234",
-    "pay_cid": "77CB1B455FB5F60415A7A02E4502134CFD72DBF6D1EC8FA2B48467DFB124AA75A",
-    "pay_time": "2019-11-12T16:39:57.686436+03:30"
+	"state": "paid",
+	"total": 1000000,
+	"wage": 5000,
+	"gateway": "sep",
+	"terminal": "11223344",
+	"pay_ref": "GmshtyjwKSu5lKOLquYrzO9BqjUMb/TPUK0qak/iVs",
+	"pay_trace": "935041",
+	"pay_pan": "123456******1234",
+	"pay_cid": "77CB1B455FB5F60415A7A02E4502134CFD72DBF6D1EC8FA2B48467DFB124AA75A",
+	"pay_time": "2019-11-12T16:39:57.686436+03:30"
 }
 ```
 
