@@ -78,6 +78,7 @@ https://webpay.bahamta.com/doc/api
 
 
 ## A React Demo !!!
-This lib is supposed to use in node but for a demo I use it in React 
-[Code](https://github.com/hrashidi/support-me)
-[Support me](https://hrashidi.github.io/support-me)
+This lib is supposed to use in node but for a demo I use it in React  
+[Code](https://github.com/hrashidi/support-me)  
+
+[Support Me](https://hrashidi.github.io/support-me)
