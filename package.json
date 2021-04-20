@@ -1,6 +1,6 @@
 {
 	"name": "webpay-bahamta",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "This a lib to handle payment from bahamta",
 	"author": "Hossein Rashidi",
 	"license": "MIT",
