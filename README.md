@@ -75,3 +75,9 @@ payment_info will be like:
 
 ## API Documentation
 https://webpay.bahamta.com/doc/api
+
+
+## A React Demo !!!
+This lib is supposed to use in node but for a demo I use it in React 
+[Code](https://github.com/hrashidi/support-me)
+[Support me](https://hrashidi.github.io/support-me)
